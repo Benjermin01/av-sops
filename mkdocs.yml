@@ -1,0 +1,7 @@
+site_name: AV Engineering Playbook
+theme:
+  name: material
+
+nav:
+  - Home: index.md
+  - SOPs: sops.md
