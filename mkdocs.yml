@@ -1,20 +1,24 @@
 site_name: AV Engineering Playbook
+site_description: Standard Operating Procedures for AV Engineering Excellence
 
 theme:
   name: material
   logo: assets/images/marshall-50th-logo-light.png
   icon:
     logo: assets/images/marshall-50th-logo-dark.png
+  custom_colors:  # Marshall Industries branding
+    primary: '#182C54'  # Navy blue
+    accent: '#A0A0A0'   # Silver gray
   palette:
-    - scheme: default
-      primary: indigo
-      accent: deep orange
+    - scheme: default  # Light mode
+      primary: custom  # We'll define navy below
+      accent: custom   # Silver accent
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
-    - scheme: slate
-      primary: indigo
-      accent: deep orange
+    - scheme: slate    # Dark mode
+      primary: custom
+      accent: custom
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
@@ -48,6 +52,8 @@ plugins:
       minify_css: true
       htmlmin_opts:
         remove_comments: true
+
+copyright: © 2025 Marshall Industries. All rights reserved. | AV Engineering Playbook
 
 nav:
   - Home: index.md
