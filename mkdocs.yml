@@ -3,22 +3,16 @@ site_description: Standard Operating Procedures for AV Engineering Excellence
 
 theme:
   name: material
-  custom_colors:
-    primary: '#182C54'  # Marshall Navy
-    accent: '#A0A0A0'   # Marshall Silver
   logo: assets/images/marshall-50th-logo-light.png
   icon:
     logo: assets/images/marshall-50th-logo-dark.png
+  custom_dir: docs/overrides
   palette:
     - scheme: default
-      primary: custom
-      accent: custom
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
     - scheme: slate
-      primary: custom
-      accent: custom
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
@@ -58,3 +52,4 @@ copyright: © 2025 Marshall Industries. All rights reserved. | AV Engineering Pl
 nav:
   - Home: index.md
   - SOPs: sops.md
+  - Estimation: estimation.md
