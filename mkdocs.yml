@@ -23,6 +23,9 @@ theme:
     - search.highlight
     - content.code.copy
 
+extra:
+  generator: false
+
 markdown_extensions:
   - admonition
   - pymdownx.details
