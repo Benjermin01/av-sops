@@ -5,6 +5,7 @@ Below are the current simplified SOPs for the Engineering Department.
 This is a code block
 ```
 This is a table
+
 First Header | Second Header | Third Header
 :----------- |:-------------:| -----------:
 Left         | Center        | Right
