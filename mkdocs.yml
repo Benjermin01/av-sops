@@ -49,6 +49,7 @@ plugins:
       minify_css: true
       htmlmin_opts:
         remove_comments: true
+  - mermaid2
 
 copyright: © 2025 Marshall Industries. All rights reserved.
 

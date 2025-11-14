@@ -76,3 +76,15 @@ Tasks can be directly assigned to the desired Engineering team member.
 ### Recommendations
 
 The Service Manager can ask the Engineering Manager to recommend a suitable team member for assignment if needed.
+
+## Mermaid diagram
+
+Below is a simple process flow for Sales → Engineering → Review.
+
+```mermaid
+flowchart LR
+  Sales[Sales Rep] -->|Creates Opp| EngMgr[Engineering Manager]
+  EngMgr -->|Assigns| Engineer[Engineer]
+  Engineer -->|Delivers| Review[Manager Review]
+  Review -->|Passes to| Sales
+```
