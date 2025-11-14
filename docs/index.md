@@ -2,38 +2,30 @@
 
 Below are the current simplified SOPs for the Engineering Department.
 
-## 1. Refer to Sales Funnel Process
+## 1. Requesting Engineering Services for a Sales Opportunity
 
-When engineering services are requested for an opportunity, follow these steps.
-
-When creating the Design/Engineer funnel item, include:
+When Engineering Services are required for a Sales Opportunity, the Sales Representative is to create an Opportunity with the Design/Engineer funnel item to include:
 - Clear directive of the task for Engineering to accomplish.
-- Deadline for results to be delivered back to Sales.
+- Deadline for results to be delivered back to Sales. (End of day entered)
 - Resources to complete the task (drawings and specifications).
+- Set Assignee to be the Estimator you would like to complete the task.
 
-## 2. Engineering Manager Task Review
+### Turnaround Time
 
-The Engineering Manager will review funnel item tasks before assigning them to a team member.
-- Review to be completed within 24 hours.
+- Standard turnaround time: 1 week for Opportunity item tasks.
+- For oppotunities requiring quicker turnaround times, the request may be rejected if it conflicts with prior obligations.
 
-## 3. Engineering Manager Results Review
+### Manager Involvement
 
-The Engineering Manager will review results from assigned team members and pass them to the Sales Representative if they pass review.
-- Review to be completed within 24 hours.
+- If there are issues that need to be addressed beyond working directly between Sales Representative and Estimator, issue to be escalated to Engineering or Sales Manager for resolution.
 
-## 4. Turnaround Time
+## 2. Requesting Engineering services for Project Engineering
 
-- Standard time: 1 week for Opportunity item tasks.
-- Expedited requests: Sales Representatives must coordinate with the Engineering Manager before assigning items requiring shorter deadlines.
-- Extended timelines: Written request for extended timelines is not required.
-
-## 5. Task Creation
-
-The Project Manager must create a task for the Engineering Manager to assign an Engineer during project initiation.
+To request Project Engineering services, the Project Manager must create a task for the Engineering Manager to assign an Engineer during project initiation.
 - Accompany the task with an email to relevant stakeholders (e.g., Estimator, Sales Representative, Site Foreman).
-- The Engineering Manager will respond with the assigned Engineer's details within 24 hours.
+- The Engineering Manager to respond with the assigned Engineer's details within 24 hours.
 
-## 6. Handoff Meeting
+### Handoff Meeting
 
 Required attendees:
 - Project Manager
@@ -46,7 +38,7 @@ Objectives:
 - Define engineering task(s) and timelines.
 - Allow the Project Engineer to provide input and recommendations.
 
-## 7. Coordination and Execution
+### Coordination and Execution
 
 - Engineering team members follow the outlined plan from the handoff meeting.
 - Address unplanned obstacles through coordination.
@@ -54,23 +46,23 @@ Objectives:
 - General timeline guidance (varies by project):
   - Commissioning, Factory Acceptance Testing, and Programming: typically about 1 week; coordinate at handoff and adjust as the project progresses.
 
-## 8. Progress Communication
+### Progress Communication
 
 Engineering team members must email the Project Manager and Engineering Manager with updates; daily updates are preferred.
 
-## 9. Line-item Changes
+### Line-item Changes
 
 Any line-item changes required by Engineering must be sent to the PM via the standardized Add/Delete Sheet (Excel).
 
-## 10. PR Requests
+### PR Requests
 
 Standard turnaround time is 1 week but actual timing should be coordinated with the PM on a case-by-case basis when the PM tasks Engineering.
 
-## 11. Task Assignment (Service)
+## 3. Requesting Engineering Services for Service Calls
 
 Tasks can be directly assigned to the desired Engineering team member.
 - For unresolved issues, the Service Manager may request the Engineering Manager's involvement.
 
-## 12. Recommendations
+### Recommendations
 
 The Service Manager can ask the Engineering Manager to recommend a suitable team member for assignment if needed.
