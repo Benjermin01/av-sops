@@ -51,7 +51,6 @@ copyright: © 2025 Marshall Industries. All rights reserved. | AV Engineering Pl
 
 nav:
   - Home: index.md
-  - SOPs: sops.md
   - Estimation: estimation.md
   - Design: design.md
   - Commissioning: commissioning.md

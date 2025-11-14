@@ -1,3 +1,0 @@
-﻿# SOPs
-
-Coming soon...
