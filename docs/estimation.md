@@ -1,20 +1,20 @@
 This document outlines general process regarding estimation within the Engineering Department
 
-# 1.Task Handling
+## 1.Task Handling
 
 Sales representatives can utilize the Engineering Department to create estimations for bid projects. When engaged for these tasks, the main tool for tracking the tasks is Q360. 
 
-# Task Logging
+## Task Logging
 
 The **Comments** section of the Engineering/Estimation funnel item (and other funnel items) should be used to add **(logs)** for documentation of things that have occurred durring the process of the estimation request. Logs should include:
 - current short date
 - short name of person making the log
 - information regarding the log entry
 
-# Time billing
+## Time billing
 time spent working on the task should be billed to the opportunity. Notes regarding what was worked on durring the timebill are encouraged but not expressly required.
 
-# Sales Request of Estimation Task
+## Sales Request of Estimation Task
 
 - Sales representative creates the Opp (Most details for this is outside the scope of the engineering department)
 - Sales rep to make sure the follwing items are set properly on the Engineering/Estimation task.
@@ -31,7 +31,7 @@ time spent working on the task should be billed to the opportunity. Notes regard
             - If this text does not accurately reflect the desired task or this text is not provided, then there is nothing to evaluate.
             - If this text is unclear, the engineering manager needs to reach out to the sales representative for clarification which will delay the process and cause confusion.
 
-# Engineering Manager Assignment
+## Engineering Manager Assignment
 
 - When the engineering manager receives the request (shows up in taks list) he will review the task details and if everything checks out, he will assign the task to a capable, available member of the engineering department.
 - The engineering manager should get the assignment made within 24 hours of receiving the request.
@@ -46,7 +46,7 @@ time spent working on the task should be billed to the opportunity. Notes regard
     - The Comments on the Engineering/Estimation funnel item should contain directive of the task.
         - This will also contain manually added log items regarding the estimation.
 
-# Estimation Task Completion Process
+## Estimation Task Completion Process
 
 - Initial Evaluation
     - Estimator should start by evaluating the task.
@@ -124,13 +124,13 @@ time spent working on the task should be billed to the opportunity. Notes regard
         
 
 
-# Estimate Notes
+## Estimate Notes
 Durring Estimate, take notes of any deviations, followups, ect.
 - Create note "Container" in OneNote
     - In Q360 Cloud OneNote, create **New Page** Under **Estimates** section
     - Set Page tile to match exactly the Estimate Title in ProEst Ex: (90536127 | Utah Air National Guard Kitchen and Auditorium AV)
 
-# Estimate Drawings
+## Estimate Drawings
 Durring Estimate, track progress, deviations and other things on another set of the drawings.
 - Suggest using AutoDesk Design Review for simplicity but this is software agnostic as long as the end result is a set of drawings that illustrates what was done on the estimate.
 - Drawings should be understandable to other team members
