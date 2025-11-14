@@ -1,6 +1,6 @@
 This document outlines general process regarding estimation within the Engineering Department
 
-# Task Handling
+# 1.Task Handling
 
 Sales representatives can utilize the Engineering Department to create estimations for bid projects. When engaged for these tasks, the main tool for tracking the tasks is Q360. 
 

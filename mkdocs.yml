@@ -50,7 +50,7 @@ plugins:
       htmlmin_opts:
         remove_comments: true
 
-copyright: © 2025 Marshall Industries. All rights reserved. | AV Engineering Playbook
+copyright: © 2025 Marshall Industries. All rights reserved.
 
 nav:
   - Home: index.md
