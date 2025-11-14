@@ -1,0 +1,33 @@
+/* === MARSHALL INDUSTRIES OFFICIAL THEME === */
+
+/* Light Mode */
+[data-md-color-scheme="default"] {
+  --md-primary-fg-color:        #182C54;  /* Header background */
+  --md-primary-fg-color--light: #2A4678;
+  --md-primary-fg-color--dark:  #0F1E3A;
+  --md-accent-fg-color:         #A0A0A0;  /* Links, buttons */
+  --md-typeset-a-color:         #A0A0A0;  /* All links */
+  --md-footer-bg-color:         #182C54;
+  --md-footer-fg-color:         #FFFFFF;
+}
+
+/* Dark Mode */
+[data-md-color-scheme="slate"] {
+  --md-primary-fg-color:        #182C54;
+  --md-primary-fg-color--light: #2A4678;
+  --md-accent-fg-color:         #B0B0B0;
+  --md-typeset-a-color:         #B0B0B0;
+  --md-footer-bg-color:         #0F1E3A;
+  --md-footer-fg-color:         #CCCCCC;
+}
+
+/* Force header text color */
+.md-header,
+.md-tabs {
+  color: white !important;
+}
+
+/* Optional: Softer background */
+.md-typeset {
+  background-color: var(--md-default-bg-color);
+}
