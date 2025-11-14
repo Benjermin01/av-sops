@@ -41,14 +41,6 @@ markdown_extensions:
 
 plugins:
   - search
-  - git-revision-date-localized:
-      enable_creation_date: true
-  - minify:
-      minify_html: true
-      minify_js: true
-      minify_css: true
-      htmlmin_opts:
-        remove_comments: true
   - mermaid2
 
 copyright: © 2025 Marshall Industries. All rights reserved.
